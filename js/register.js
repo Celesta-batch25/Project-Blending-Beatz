@@ -6,7 +6,7 @@
    CONFIG — paste your deployed Google Apps Script Web App URL here.
    See /apps-script/README.md for deployment instructions.
    ------------------------------------------------------------ */
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxBqAFS7QqDnP_DW7Zf0q7Wc2O4cEMvIeGroEISnvIfedpZfH3Pb1E-3ypi0Oe_8eGK_Q/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxCvGH24pWBoxWTmUNcUVTW-rPMul6Tt5vPnHIgT_TsNJkDRcFtWMo_dPUYZLOvB20fCg/exec";
 
 const MEMBER_COUNT = 20;
 
